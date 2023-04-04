@@ -1,0 +1,48 @@
+Property Name: Example from Video
+Gross Monthly Rental Income: $2,000/month 
+Laundry Income: $0 
+Storage Income: $0 
+Misc. Income: $0 
+=========
+Taxes: $150/month 
+Insurance: $100/month 
+Utilities: $0/month 
+HOA Fees: $0/month 
+Lawn/Snow Care: $0/month 
+Vacancy: $100/month 
+Repairs : $100/month 
+Capital Expendisures (CapEx): $100/month 
+Property Management: $200/month 
+Mortgage: $860/month
+========
+Down Payment: $40,000 
+Closing Costs: $3,000 
+Repair Money: $7,000 
+Misc. Other: $0
+
+This one is formatted differently to show the working regex
+
+prop name chicago 3-bed, 2-bath apartment
+rental income $3000
+laundry= $0 
+storage $0 
+miscellaneous income 0
+taxes $150
+insurance= 110.00
+utilities= 40.75
+hoa $99
+lawn = 0 
+vacancy 125 
+repairs : 130
+capex: 125 
+prop management $230.73/month 
+mortgage 900
+down 50000 
+closing 3250.60
+rehab 3245 
+misc. investments 50
+
+
+This one is formatted the simplest 
+
+property name st. augustine condo (with pool) rental income 3000 laundry 0 storage 9.50 miscellaneous $5.75 taxes 100 insurance 150 utilities 34 hoa 100 lawn 12 vacancy 100 repairs 130 capex 150 property management 225 mortgage 934.50 down 63000 closing 5000 repair 2000 misc. investments 23.68

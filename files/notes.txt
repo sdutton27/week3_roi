@@ -1,0 +1,52 @@
+# Four Square Method for analyzing the numbers on a rental property
+
+# Hypothetical property: duplex at $200,000 (number doesn't matter)
+# each unit rents for $1000 each
+# gross monthly income : $2,000 a month
+
+# 1) Income
+# - rental income (most common income): gross monthly income $2,000 a month
+# - laundry income
+# - storage income (storage shed)
+# - misc. income
+# TOTAL MONTHLY INCOME: $2,000 per month (all income added together)
+
+# 2) Expenses (Monthly)
+# - taxes : assume $150/month
+# - insurance on a property : assume $100/month
+# (sometimes tax/insurance is included in the mortgage)
+# - utilities (water, electric, sewer, garbage, gas) : $0 (tenant pays all)
+# - HOA fees :  $0
+# - lawn/snow care : $0 tenant will handle
+# - vacancy (every month we want to set aside a little money knowing that at some point it's going to go vacant) : estimate 3-5% vacancy (5% of rental income) ($100)
+# - repairs : around $50-100 per unit per month?
+# - capEx (capital expendisures) - setting aside a little money a month for big expenses; linked with repairs, but replacing things : $100/month
+# - property management : might pay property manager 10% rental income ($200/month)
+# - mortgage (if you don't pay cash) : can use online free mortgage calculator. hypothetically $160,000 mortgage at 5% interest over 40year span: $860/month
+# TOTAL MONTHLY EXPENSES (everything added up): $1610 (all expenses added together)
+
+# 3) Cash Flow: (how much extra money do I have per month)
+# income - expenses
+# $2,000 - $1,610 per month: $390/month
+# TOTAL MONTHLY CASH FLOW: $390/month
+
+# 4) Cash on Cash ROI (Return on Investment)
+# - Down Payment say usually 20%: $40,000
+# - Closing Costs (people we had to pay), say $3,000
+# - Repair money / rehab budget, say $7,000 (painting the property)
+# - Misc other, say $0
+# TOTAL INVESTMENT: $50,000
+# Annual Cash Flow: Total Monthly Cash Flow (^ #3) x 12 : $390 x 12 = $4,680
+
+# ROI = Annual Cash Flow / Total Investment
+# ROI = $4,680 / $50,000 = .0936 => 9.36%
+# Cash on Cash ROI = 9.36%
+
+# What is a good Cash on Cash ROI?
+# Depends on your goals/strategies
+# Stocks have been 6-7% average so this actually does better
+
+# Harder: Overall (Total) Return and your Internal Rate of Return (Equity)
+# What if your property was worth more than you originally bought it for?
+
+# BiggerPockets.com/Analysis for more calculators
